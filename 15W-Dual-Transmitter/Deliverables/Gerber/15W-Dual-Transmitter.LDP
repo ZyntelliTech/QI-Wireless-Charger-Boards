@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\aSim Data\GitHub_Faizan\stelon-qiwirelesscharger\Design-Files\15W-Dual-Transmitter\15W-Dual-Transmitter.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=15w-dual-transmitter-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=15w-dual-transmitter-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 15W-Dual-Transmitter.PcbDoc   11/19/2025  1:50:35 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 15W-Dual-Transmitter-RoundHoles.TXT
+ASCII SlotHoles File : 15W-Dual-Transmitter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             210       PTH        640.52mm (25.22inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.17mm (1.50inch)
+T3      1mm (39mil)                                               Round             4         PTH        97.35mm (3.83inch)
+T4      2mm (79mil)                                               Round             4         PTH        63.77mm (2.51inch)
+T5      3mm (118mil)                                              Round             4         PTH        139.07mm (5.48inch)
+T6      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              228
+
+Total Processing Time (hh:mm:ss) : 00:00:00
